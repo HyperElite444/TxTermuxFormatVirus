@@ -16,6 +16,7 @@ pkg intall python2 -y
 clear
 
 echo
+figlet -f small SUCCESSFULLY FORMATED | lolcat
 figlet -f small TOOL BY MR.THENUX | lolcat
 
 cd
