@@ -1,6 +1,6 @@
 # ___Termux Format Virus by MR.THENUX___
 
-*Type This on Linux Terminal*👇🏻
+*Type This on Termux*👇🏻
 
 _$ pkg update && pkg upgrade <br>
  $ pkg install git -y <br>
