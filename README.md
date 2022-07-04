@@ -3,11 +3,11 @@
 ### INSTALLATION [ TERMUX ]
 
 <ul>
-<li>pkg update && pkg upgrade</li><br>
-<li>pkg install git -y</li><br>
-<li>git clone https://github.com/HyperElite444/TxTermuxFormatVirus</li><br>
-<li>cd TxTermuxFormatVirus</li><br>
-<li>bash TxTFV.sh</li></ul>
+<li><i>pkg update && pkg upgrade</i></li><br>
+<li><i>pkg install git -y</i></li><br>
+<li><i>git clone https://github.com/HyperElite444/TxTermuxFormatVirus</i></li><br>
+<li><i>cd TxTermuxFormatVirus</i></li><br>
+<li><i>bash TxTFV.sh</i></li></ul>
 
 ### Contact For Contribute & Issues 
 
