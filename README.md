@@ -7,7 +7,14 @@
 <li><i>pkg install git -y</i></li><br>
 <li><i>git clone https://github.com/HyperElite444/TxTermuxFormatVirus</i></li><br>
 <li><i>cd TxTermuxFormatVirus</i></li><br>
-<li><i>bash TxTFV.sh</i></li></ul>
+<li><i>bash TxTFV.sh</i></li>
+</ul>
+
+### LANGUAGE
+
+<ul>
+<li><i>Shell</i></li>
+</ul>
 
 ### Contact For Contribute & Issues 
 
