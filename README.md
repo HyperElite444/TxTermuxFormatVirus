@@ -1,6 +1,6 @@
-# Termux Format Virus by MR.THENUX
+# TxTermuxFormatVirus
 
-### INSTALLATION [TERMUX]
+### INSTALLATION [ TERMUX ]
 
 <ul>
 <li>pkg update && pkg upgrade</li><br>
